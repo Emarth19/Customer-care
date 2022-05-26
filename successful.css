@@ -1,0 +1,22 @@
+p{
+    background-color: cornflowerblue;
+    color: aliceblue;
+    text-align: center;
+    width: 25%;
+    height: 2.5rem;
+    line-height: 2.5rem;
+    border-radius: 10px;
+    margin: auto;
+    font-size: 20px;
+    margin-top: 100px;
+    padding: 5px;
+}
+hr{
+    border-style: none; /* you have to set this as none*/
+    border-top-style: dotted; /* you have to set this as dotted*/
+    border-color: gray; /* this will help you to change the dotted color*/
+    border-width: 10px; /* this will change the size of the dotted line*/
+    width: 25%; /* this will reduce the size of the dotted pattern*/
+    margin-top: 20px; /* this will change the margin of the dotted line on the top of the page*/
+   
+}
